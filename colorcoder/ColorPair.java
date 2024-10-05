@@ -1,8 +1,8 @@
 package colorcoder;
 
-import colorcoder.enums.MajorColor;
-import colorcoder.enums.MinorColor;
-import colorcoder.utils.ColorUtils;
+import colorcoder.MajorColor;
+import colorcoder.MinorColor;
+import colorcoder.ColorUtils;
 
 public class ColorPair {
     private MajorColor majorColor;
