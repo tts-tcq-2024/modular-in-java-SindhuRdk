@@ -1,4 +1,4 @@
-package colorcoder.models;
+package colorcoder;
 
 import colorcoder.enums.MajorColor;
 import colorcoder.enums.MinorColor;
