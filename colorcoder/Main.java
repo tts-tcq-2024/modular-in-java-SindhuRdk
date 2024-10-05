@@ -1,9 +1,8 @@
 package colorcoder;
 
-import colorcoder.utils.ColorUtils;
-import colorcoder.models.ColorPair;
-import colorcoder.enums.MajorColor;
-import colorcoder.enums.MinorColor;
+import colorcoder.MajorColor;
+import colorcoder.MinorColor;
+import colorcoder.ColorUtils;
 
 public class Main {
     public static void main(String[] args) {
